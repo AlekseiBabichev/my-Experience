@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/.gitignore" afterPath="$PROJECT_DIR$/src/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaRushHomeWork.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Solution.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1383913997143" ignored="false" />
     <file path="/fragment.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1383937136963" ignored="false" />
-    <file path="/Dummy.txt" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384060389664" ignored="false" />
+    <file path="/Dummy.txt" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384061317299" ignored="false" />
     <file path="/perebor.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1362589784369" ignored="false" />
     <file path="/classs.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1363629041569" ignored="false" />
     <file path="/*.regexp" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1359746331101" ignored="false" />
@@ -345,7 +345,6 @@
     <file path="$USER_HOME$/Desktop/numberMethod/src/testTable/Хуесосо.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1383985378564" ignored="false" />
     <file path="$USER_HOME$/Desktop/numberMethod/src/testTable/Хуесосо.form" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1383985290358" ignored="false" />
     <file path="/Хуесосо.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1383985360349" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384061303928" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1196,7 +1195,11 @@
       <created>1384060398968</created>
       <updated>1384060398968</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="connect Idea">
+      <created>1384061322334</created>
+      <updated>1384061322334</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
