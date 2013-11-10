@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="" />
     <ignored path="JavaRushHomeWork.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Solution.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1383913997143" ignored="false" />
@@ -260,8 +258,8 @@
     <file path="$USER_HOME$/Desktop/numberMethod/src/labs1_3/Part3.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1380134204695" ignored="false" />
     <file path="$USER_HOME$/Desktop/numberMethod/src/labs1_3/BusinesLogic.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1380134204695" ignored="false" />
     <file path="$USER_HOME$/Desktop/numberMethod/src/labs1_2/GUIPart2.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1380134276323" ignored="false" />
-    <file path="$USER_HOME$/Desktop/numberMethod/src/labs1_2/Part3.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1380134276323" ignored="false" />
-    <file path="$USER_HOME$/Desktop/numberMethod/src/labs1_2/BusinesLogic.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1380134276323" ignored="false" />
+    <file path="$USER_HOME$/Desktop/numberMethod/src/labs1_2/Part3.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384062215791" ignored="false" />
+    <file path="$USER_HOME$/Desktop/numberMethod/src/labs1_2/BusinesLogic.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384062125714" ignored="false" />
     <file path="/Lion.avi.part1" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1380463493942" ignored="false" />
     <file path="/Lion.avi.part4" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1380463463707" ignored="false" />
     <file path="/Lion.avi.part5" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1380463481016" ignored="false" />
@@ -283,7 +281,7 @@
     <file path="$USER_HOME$/Desktop/numberMethod/src/labs7_8/hhkk.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1381864087224" ignored="false" />
     <file path="$USER_HOME$/Desktop/numberMethod/src/testTable/RowHeaderRenderer.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1381864447974" ignored="false" />
     <file path="$USER_HOME$/Desktop/numberMethod/src/testTable/main.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1381864500346" ignored="false" />
-    <file path="$USER_HOME$/Desktop/numberMethod/src/testTable/RowHeaderExample.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1381865015906" ignored="false" />
+    <file path="$USER_HOME$/Desktop/numberMethod/src/testTable/RowHeaderExample.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384062460788" ignored="false" />
     <file path="$USER_HOME$/Desktop/numberMethod/src/labs7_8/RowHeaderRenderer.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1381865270467" ignored="false" />
     <file path="/RowHeaderRenderer.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1381865260647" ignored="false" />
     <file path="$USER_HOME$/Desktop/numberMethod/src/labs7_8/GUIIML.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1382026450469" ignored="false" />
@@ -317,7 +315,7 @@
     <file path="/Circle.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1382838006715" ignored="false" />
     <file path="$USER_HOME$/Desktop/numberMethod/src/JavaTheExamples/chapter_2/Circle.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1382838061392" ignored="false" />
     <file path="$USER_HOME$/Desktop/numberMethod/src/JavaTheExamples/chapter_1/Task1_3.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1382835324562" ignored="false" />
-    <file path="$USER_HOME$/Desktop/numberMethod/src/JavaTheExamples/chapter_1/BinarySearch.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1382948127000" ignored="false" />
+    <file path="$USER_HOME$/Desktop/numberMethod/src/JavaTheExamples/chapter_1/BinarySearch.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384061967012" ignored="false" />
     <file path="$USER_HOME$/Desktop/numberMethod/src/JavaTheExamples/chapter_1/Task1_1.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1382835324562" ignored="false" />
     <file path="$USER_HOME$/Desktop/numberMethod/src/JavaTheExamples/chapter_2/Rect.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1382837351339" ignored="false" />
     <file path="/Rect.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1382837341691" ignored="false" />
@@ -345,6 +343,13 @@
     <file path="$USER_HOME$/Desktop/numberMethod/src/testTable/Хуесосо.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1383985378564" ignored="false" />
     <file path="$USER_HOME$/Desktop/numberMethod/src/testTable/Хуесосо.form" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1383985290358" ignored="false" />
     <file path="/Хуесосо.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1383985360349" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384062562131" ignored="false" />
+    <file path="$USER_HOME$/Desktop/numberMethod/src/labs3_4/MethodHalfDivideLogic.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384062280036" ignored="false" />
+    <file path="$USER_HOME$/Desktop/numberMethod/src/labs7_8/testDesigner/GUI.form" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384062372132" ignored="false" />
+    <file path="$USER_HOME$/Desktop/numberMethod/src/labs7_8/testDesigner/TableModel.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384062372132" ignored="false" />
+    <file path="$USER_HOME$/Desktop/numberMethod/src/labs7_8/testDesigner/IML.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384062372132" ignored="false" />
+    <file path="$USER_HOME$/Desktop/numberMethod/src/labs7_8/testDesigner/GUI.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384062372132" ignored="false" />
+    <file path="$USER_HOME$/Desktop/numberMethod/src/labs7_8/testDesigner/Model.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384062372132" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -757,19 +762,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Solution.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level16/lesson13/bonus03/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="61" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="25" selection-start="36" selection-end="36" vertical-scroll-proportion="0.028286189">
+            <state line="36" column="91" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.9850249">
               <folding />
             </state>
           </provider>
@@ -930,7 +926,7 @@
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/numberMethod" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="GoToClass.includeJavaFiles" value="false" />
@@ -1224,7 +1220,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="-8" width="1308" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1392,16 +1388,16 @@
         <state line="36" column="13" selection-start="513" selection-end="513" vertical-scroll-proportion="-2.3965936" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level16/lesson13/bonus03/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="61" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0">
+        <state line="1" column="114" selection-start="36" selection-end="36" vertical-scroll-proportion="0.028286189">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level16/lesson13/bonus03/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="25" selection-start="36" selection-end="36" vertical-scroll-proportion="0.028286189">
+        <state line="36" column="91" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.9850249">
           <folding />
         </state>
       </provider>
