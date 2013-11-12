@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719a44b7-d05c-4107-a57c-e3aa632991d8" name="Default" comment="" />
+    <list default="true" id="719a44b7-d05c-4107-a57c-e3aa632991d8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ru.gif" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ru.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChannelModel.java" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChannelModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/src/ChatClient.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatClientLogin.java" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatClientLogin.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatClientPanel.java" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatClientPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatConstants.java" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatConstants.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatHandler.java" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatServer.java" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatServer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatUserModel.java" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatUserModel.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/SpringUtilities.java" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\SpringUtilities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/chatTCP.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\JavaRushPlugin.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\AbstractLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\DimensionInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\GridConstraints.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\GridLayoutManager.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\HorizontalInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\LayoutState.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\Spacer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\SupportCode$TextWithMnemonic.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\SupportCode.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\Util.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\VerticalInfo.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaRushHomeWork/out/production/JavaRushHomeWork/com/javarush/test/level04/lesson16/home04/Cat.class" afterPath="$PROJECT_DIR$/../JavaRushHomeWork/out/production/JavaRushHomeWork/com/javarush/test/level04/lesson16/home04/Cat.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaRushHomeWork/out/production/JavaRushHomeWork/com/javarush/test/level16/lesson13/bonus03/Solution.class" afterPath="$PROJECT_DIR$/../JavaRushHomeWork/out/production/JavaRushHomeWork/com/javarush/test/level16/lesson13/bonus03/Solution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home02/Beach.java" afterPath="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home02/Beach.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home01/Solution.java" afterPath="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home01/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home04/Solution.java" afterPath="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home04/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaRushHomeWork/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaRushHomeWork/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="numberMethod.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/businesLogic.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1378806973109" ignored="false" />
@@ -10,13 +61,13 @@
     <file path="/Part3.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1378808351840" ignored="false" />
     <file path="/GUIPart2.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1378972739928" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/src/com/javarush/test/level18/lesson08/task01/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1379179706509" ignored="false" />
-    <file path="/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1382723823552" ignored="false" />
+    <file path="/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384270932822" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/src/com/javarush/test/level18/lesson08/task02/QuestionFileOutputStream.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1379181242629" ignored="false" />
     <file path="/QuestionFileOutputStream.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1379181111205" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/src/com/javarush/test/level18/lesson10/home01/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1379196837068" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/input.txt" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1381297162797" ignored="false" />
     <file path="/input.txt" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1380463504306" ignored="false" />
-    <file path="/fragment.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1383071440592" ignored="false" />
+    <file path="/fragment.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384124183643" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/src/com/javarush/test/level18/lesson10/home02/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1379878016157" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/src/com/javarush/test/level18/lesson10/home03/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1379878902282" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/src/com/javarush/test/level18/lesson10/home04/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1380190736995" ignored="false" />
@@ -57,8 +108,8 @@
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/src/com/javarush/test/level12/lesson09/task04/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1382205724519" ignored="false" />
     <file path="/MyModel.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1382283707309" ignored="false" />
     <file path="/testRectangle.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1382625810639" ignored="false" />
-    <file path="/Dummy.txt" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384061317299" ignored="false" />
-    <file path="/Cat.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1382722906829" ignored="false" />
+    <file path="/Dummy.txt" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384123552791" ignored="false" />
+    <file path="/Cat.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384202310166" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home02/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1382724776195" ignored="false" />
     <file path="$PROJECT_DIR$/src/labs7_8/labs7_8/IML.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1382732197771" ignored="false" />
     <file path="$PROJECT_DIR$/src/labs7_8/labs7_8/GUI.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1382732197771" ignored="false" />
@@ -82,6 +133,16 @@
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/my-Experience/JavaRushHomeWork/src/com/javarush/test/level16/lesson13/bonus03/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384060372031" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/my-Experience/JavaRushHomeWork/.idea/workspace.xml" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384062562131" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/my-Experience/JavaRushHomeWork/src/.gitignore" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384061310940" ignored="false" />
+    <file path="/a.dummy" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384123616005" ignored="false" />
+    <file path="/ChatClient.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384132023876" ignored="false" />
+    <file path="/ChatServer.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384195968411" ignored="false" />
+    <file path="/ChatHandler.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384126712191" ignored="false" />
+    <file path="$PROJECT_DIR$/../chatTCP/src/ChatHandler.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384126719554" ignored="false" />
+    <file path="$PROJECT_DIR$/../chatTCP/src/ChatServer.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384273589849" ignored="false" />
+    <file path="/ChatClientLogin.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384202690191" ignored="false" />
+    <file path="/ChatClientPanel.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384196074458" ignored="false" />
+    <file path="C:/Program Files/Java/jdk1.7.0_13/src.zip!/javax/swing/SwingConstants.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384203316972" ignored="false" />
+    <file path="/Beach.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384257416116" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +226,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -218,7 +287,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -262,6 +331,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="numberMethod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="numberMethod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -275,19 +358,19 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chatTCP" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -400,19 +483,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -438,6 +508,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -527,8 +610,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="-8" width="1308" height="784" extended-state="6" />
-    <editor active="false" />
+    <frame x="66" y="-8" width="1308" height="784" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -538,17 +621,17 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32695374" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17094703" sideWeight="0.68580544" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3141946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31288344" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1741573" sideWeight="0.80223286" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32695374" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -664,11 +747,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaTheExamples/chapter_1/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="63" selection-start="1757" selection-end="1757" vertical-scroll-proportion="1.2072968">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="59" column="63" selection-start="1757" selection-end="1757" vertical-scroll-proportion="1.2072968" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/labs1_2/Part3.java">

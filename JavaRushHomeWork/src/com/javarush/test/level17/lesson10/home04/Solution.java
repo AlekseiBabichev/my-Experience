@@ -16,7 +16,7 @@ public class Solution {
         solution.method0();
     }
 
-    public synchronized void  method2(int param1) {
+    public void  method2(int param1) {
         param1++;
     }
 
@@ -29,17 +29,17 @@ public class Solution {
         new StringBuilder().append(1).append(1).append(1).append(1);
     }
 
-    protected  void method5(String param2) {
+    protected void method5(String param2) {
         new StringBuffer().append(param2).append(param2).append(param2);
     }
 
-    public synchronized String method6(int param2) {
+    public String method6(int param2) {
         System.out.println("Thinking....");
         method7(5e-2);
         return "Got it!";
     }
 
-     String method7(double param2) {
+    String method7(double param2) {
         return "" + param2;
     }
 
