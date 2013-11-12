@@ -3,54 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="719a44b7-d05c-4107-a57c-e3aa632991d8" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ru.gif" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ru.gif" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChannelModel.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChannelModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/src/ChatClient.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatClientLogin.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatClientLogin.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatClientPanel.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatClientPanel.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatConstants.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatConstants.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatHandler.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatHandler.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatServer.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatServer.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatUserModel.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatUserModel.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/SpringUtilities.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\SpringUtilities.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/chatTCP.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\JavaRushPlugin.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\AbstractLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\DimensionInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\GridConstraints.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\GridLayoutManager.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\HorizontalInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\LayoutState.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\Spacer.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\SupportCode$TextWithMnemonic.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\SupportCode.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\Util.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Public\Documents\javarush\my-Experience\JavaRushHomeWork\out\production\JavaRushHomeWork\com\intellij\uiDesigner\core\VerticalInfo.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaRushHomeWork/out/production/JavaRushHomeWork/com/javarush/test/level04/lesson16/home04/Cat.class" afterPath="$PROJECT_DIR$/../JavaRushHomeWork/out/production/JavaRushHomeWork/com/javarush/test/level04/lesson16/home04/Cat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaRushHomeWork/out/production/JavaRushHomeWork/com/javarush/test/level16/lesson13/bonus03/Solution.class" afterPath="$PROJECT_DIR$/../JavaRushHomeWork/out/production/JavaRushHomeWork/com/javarush/test/level16/lesson13/bonus03/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home02/Beach.java" afterPath="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home02/Beach.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home01/Solution.java" afterPath="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home01/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home04/Solution.java" afterPath="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home04/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaRushHomeWork/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaRushHomeWork/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../chatTCP/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../chatTCP/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="numberMethod.iws" />
@@ -67,7 +29,7 @@
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/src/com/javarush/test/level18/lesson10/home01/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1379196837068" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/input.txt" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1381297162797" ignored="false" />
     <file path="/input.txt" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1380463504306" ignored="false" />
-    <file path="/fragment.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384124183643" ignored="false" />
+    <file path="/fragment.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384277155767" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/src/com/javarush/test/level18/lesson10/home02/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1379878016157" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/src/com/javarush/test/level18/lesson10/home03/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1379878902282" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/src/com/javarush/test/level18/lesson10/home04/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1380190736995" ignored="false" />
@@ -108,7 +70,7 @@
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/src/com/javarush/test/level12/lesson09/task04/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1382205724519" ignored="false" />
     <file path="/MyModel.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1382283707309" ignored="false" />
     <file path="/testRectangle.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1382625810639" ignored="false" />
-    <file path="/Dummy.txt" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384123552791" ignored="false" />
+    <file path="/Dummy.txt" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384275422201" ignored="false" />
     <file path="/Cat.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384202310166" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Public/Documents/javarush/JavaRushHomeWork/src/com/javarush/test/level06/lesson11/home02/Solution.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1382724776195" ignored="false" />
     <file path="$PROJECT_DIR$/src/labs7_8/labs7_8/IML.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1382732197771" ignored="false" />
@@ -143,6 +105,22 @@
     <file path="/ChatClientPanel.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384196074458" ignored="false" />
     <file path="C:/Program Files/Java/jdk1.7.0_13/src.zip!/javax/swing/SwingConstants.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384203316972" ignored="false" />
     <file path="/Beach.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384257416116" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip/res/values/strings.xml" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384273916953" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip/AndroidManifest.xml" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384273916953" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip/res/layout/main.xml" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384277506133" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip/build.xml" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384273916953" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip/src/com/example/warShip/Main.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384273758102" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip/src/ru/BabichevAleksei/warShip/main.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384273916953" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/Player.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384280106267" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/Ship.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384280106267" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/SimpleDotComTestDrive.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384280106267" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/SwingTest.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384280124473" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/Field.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384280219344" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/User.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384280106267" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/GameHelper.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384280106267" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/ConstParam.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384280106267" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/AI.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384280106267" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/WarShipMain.java" changelist="719a44b7-d05c-4107-a57c-e3aa632991d8" time="1384280106267" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -611,7 +589,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="-8" width="1308" height="784" extended-state="7" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />

@@ -3,47 +3,42 @@
   <component name="ChangeListManager">
     <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ru.gif" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ru.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/AI.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChannelModel.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChannelModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/src/ChatClient.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatClientLogin.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatClientLogin.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatClientPanel.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatClientPanel.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatConstants.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatConstants.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatHandler.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatHandler.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatServer.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatServer.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatUserModel.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\ChatUserModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/ConstParam.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/Field.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/GameHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/Player.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/Ship.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/SpringUtilities.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat\SpringUtilities.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/chatTCP.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chatTCP/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/javarush/test/level17/lesson10/home02/Beach.java" afterPath="$PROJECT_DIR$/src/com/javarush/test/level17/lesson10/home02/Beach.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/javarush/test/level17/lesson10/home01/Solution.java" afterPath="$PROJECT_DIR$/src/com/javarush/test/level17/lesson10/home01/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/javarush/test/level17/lesson10/home04/Solution.java" afterPath="$PROJECT_DIR$/src/com/javarush/test/level17/lesson10/home04/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../numberMethod/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../numberMethod/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/WarShipMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/warShip(consolVersion).iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../chatTCP/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../chatTCP/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../numberMethod/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../numberMethod/.idea/workspace.xml" />
     </list>
     <ignored path="JavaRushHomeWork.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Solution.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384270932822" ignored="false" />
-    <file path="/fragment.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384124183643" ignored="false" />
-    <file path="/Dummy.txt" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384123552791" ignored="false" />
+    <file path="/fragment.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384277155767" ignored="false" />
+    <file path="/Dummy.txt" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384275422202" ignored="false" />
     <file path="/perebor.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1362589784369" ignored="false" />
     <file path="/classs.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1363629041569" ignored="false" />
     <file path="/*.regexp" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1359746331101" ignored="false" />
@@ -395,6 +390,14 @@
     <file path="/ChatClientLogin.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384202690191" ignored="false" />
     <file path="/ChatClientPanel.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384196074458" ignored="false" />
     <file path="C:/Program Files/Java/jdk1.7.0_13/src.zip!/javax/swing/SwingConstants.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384203316970" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip/res/values/strings.xml" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384273916954" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip/AndroidManifest.xml" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384273916954" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip/res/layout/main.xml" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384277506134" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip/build.xml" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384273916954" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip/src/com/example/warShip/Main.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384273758102" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip/src/ru/BabichevAleksei/warShip/main.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384273916954" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/SimpleDotComTestDrive.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384280106489" ignored="false" />
+    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/SwingTest.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384280124493" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -810,7 +813,7 @@
       <file leaf-file-name="Solution.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level17/lesson10/home04/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="13" selection-start="160" selection-end="1022" vertical-scroll-proportion="0.9180723">
+            <state line="34" column="32" selection-start="808" selection-end="808" vertical-scroll-proportion="0.426506">
               <folding />
             </state>
           </provider>
@@ -1286,8 +1289,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="-8" width="1308" height="784" extended-state="7" />
-    <editor active="true" />
+    <frame x="66" y="-8" width="1308" height="784" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1494,7 +1497,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level17/lesson10/home04/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="13" selection-start="160" selection-end="1022" vertical-scroll-proportion="0.9180723">
+        <state line="34" column="32" selection-start="808" selection-end="808" vertical-scroll-proportion="0.426506">
           <folding />
         </state>
       </provider>

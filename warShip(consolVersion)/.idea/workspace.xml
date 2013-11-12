@@ -1,52 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50e19ee3-3e66-488e-9f76-1e2507188caf" name="Default" comment="" />
-    <ignored path="chatTCP.iws" />
+    <list default="true" id="8d8c6ebe-d081-4d60-984a-c659fdd339ed" name="Default" comment="" />
+    <ignored path="warShip(consolVersion).iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/../numberMethod/.idea/workspace.xml" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384189653863" ignored="false" />
-    <file path="$PROJECT_DIR$/../JavaRushHomeWork/.idea/workspace.xml" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384280254850" ignored="false" />
-    <file path="/fragment.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384277155767" ignored="false" />
-    <file path="/ChatClient.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384132024082" ignored="false" />
-    <file path="/ChatHandler.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384126712190" ignored="false" />
-    <file path="/ChatServer.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384195968411" ignored="false" />
-    <file path="/ChatClientLogin.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384202690192" ignored="false" />
-    <file path="/ChatClientPanel.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384196074458" ignored="false" />
-    <file path="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level04/lesson16/home04/Cat.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384202322141" ignored="false" />
-    <file path="/Cat.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384202310300" ignored="false" />
-    <file path="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home01/Solution.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384206805842" ignored="false" />
-    <file path="/Solution.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384270932822" ignored="false" />
-    <file path="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home02/Beach.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384257418000" ignored="false" />
-    <file path="/Beach.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384257416116" ignored="false" />
-    <file path="$PROJECT_DIR$/../JavaRushHomeWork/src/com/javarush/test/level17/lesson10/home04/Solution.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273516158" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/res/values/strings.xml" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273916954" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/AndroidManifest.xml" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273916954" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/res/layout/main.xml" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384277506134" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/build.xml" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273916954" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/src/com/example/warShip/Main.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273758102" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/src/ru/BabichevAleksei/warShip/main.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273916953" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/src/ru/BabichevAleksei/warShip/game/SwingTest.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273935829" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/src/ru/BabichevAleksei/warShip/game/User.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273935829" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/src/ru/BabichevAleksei/warShip/game/WarShipMain.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273935829" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/src/ru/BabichevAleksei/warShip/game/AI.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273935829" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/src/ru/BabichevAleksei/warShip/game/ConstParam.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273935829" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/src/ru/BabichevAleksei/warShip/game/Field.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273935829" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/src/ru/BabichevAleksei/warShip/game/GameHelper.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273935829" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/src/ru/BabichevAleksei/warShip/game/Player.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273935829" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/src/ru/BabichevAleksei/warShip/game/Ship.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273935829" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/src/ru/BabichevAleksei/warShip/game/SimpleDotComTestDrive.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384273935829" ignored="false" />
-    <file path="/Dummy.txt" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384275422200" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip/res/layout/game.xml" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384276218595" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/Player.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384280106490" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/Ship.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384280106490" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/SimpleDotComTestDrive.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384280106490" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/SwingTest.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384280124493" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/Field.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384280219344" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/User.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384280106490" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/GameHelper.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384280106490" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/ConstParam.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384280106490" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/AI.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384280106490" ignored="false" />
-    <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/WarShipMain.java" changelist="50e19ee3-3e66-488e-9f76-1e2507188caf" time="1384280106490" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,20 +60,10 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="chatTCP" />
+    <favorites_list name="warShip(consolVersion)" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ChatServer.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ChatServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="36" selection-start="440" selection-end="440" vertical-scroll-proportion="0.3443038">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -126,15 +73,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ChatHandler.java" />
-        <option value="$PROJECT_DIR$/src/ChatClient.java" />
-        <option value="$PROJECT_DIR$/src/modernChat/ChatServer.java" />
-        <option value="$PROJECT_DIR$/src/modernChat/ChatClientPanel.java" />
-        <option value="$PROJECT_DIR$/src/modernChat/ChatHandler.java" />
-        <option value="$PROJECT_DIR$/src/modernChat/ChatUserModel.java" />
-        <option value="$PROJECT_DIR$/src/modernChat/ChatClientLogin.java" />
-        <option value="C:/Program Files/Java/jdk1.7.0_13/src.zip!/javax/swing/SwingConstants.java" />
-        <option value="$PROJECT_DIR$/src/ChatServer.java" />
+        <option value="$PROJECT_DIR$/src/AI.java" />
+        <option value="$PROJECT_DIR$/src/SwingTest.java" />
+        <option value="$PROJECT_DIR$/src/Field.java" />
       </list>
     </option>
   </component>
@@ -170,33 +111,31 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chatTCP" />
+              <option name="myItemId" value="warShip(consolVersion)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chatTCP" />
+              <option name="myItemId" value="warShip(consolVersion)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chatTCP" />
+              <option name="myItemId" value="warShip(consolVersion)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chatTCP" />
+              <option name="myItemId" value="warShip(consolVersion)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chatTCP" />
+              <option name="myItemId" value="warShip(consolVersion)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -206,78 +145,28 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="reference.settingsdialog.project.gant" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src\modernChat" />
-      <recent name="C:\Users\Public\Documents\javarush\my-Experience\chatTCP\src" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Public\Documents\javarush\my-Experience\warShip(consolVersion)\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChatClientLogin">
-    <configuration default="false" name="ChatClient" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ChatClient" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="localhost 7002" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="chatTCP" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ChatServer" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="modernChat.ChatServer" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="chatTCP" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ChatClientLogin" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="modernChat.ChatClientLogin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="chatTCP" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -366,19 +255,7 @@
       <patterns />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Application.ChatClient" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ChatServer" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ChatClientLogin" />
-    </list>
-    <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.ChatClientLogin" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ChatServer" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ChatClient" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ChatServer" />
-      </list>
-    </recent_temporary>
+    <list size="0" />
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -390,33 +267,16 @@
       <AnalysisUIOptions />
     </option>
   </component>
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="50e19ee3-3e66-488e-9f76-1e2507188caf" name="Default" comment="" />
-      <created>1384123961719</created>
-      <updated>1384123961719</updated>
+      <changelist id="8d8c6ebe-d081-4d60-984a-c659fdd339ed" name="Default" comment="" />
+      <created>1384280091210</created>
+      <updated>1384280091210</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="-8" width="1308" height="784" extended-state="7" />
+    <frame x="66" y="-8" width="1308" height="784" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -427,13 +287,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959871" sideWeight="0.67145133" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32854864" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959871" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -501,38 +360,52 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ChatClient.java">
+    <entry file="file://$PROJECT_DIR$/src/AI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="43" selection-start="3059" selection-end="3059" vertical-scroll-proportion="0.26835442">
-          <folding>
-            <element signature="e#1117#1544#0" expanded="true" />
-            <element signature="e#1533#1534#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/javax/swing/SwingConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="40" selection-start="3465" selection-end="3473" vertical-scroll-proportion="0.3315508">
+        <state line="8" column="89" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChatHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/Field.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="51" selection-start="724" selection-end="724" vertical-scroll-proportion="0.26835442">
+        <state line="9" column="12" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChatServer.java">
+    <entry file="file://$PROJECT_DIR$/src/GameHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="36" selection-start="440" selection-end="440" vertical-scroll-proportion="0.3443038">
+        <state line="13" column="13" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="22" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WarShipMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="297" selection-end="297" vertical-scroll-proportion="-3.4226289">
           <folding />
         </state>
       </provider>
