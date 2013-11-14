@@ -155,7 +155,7 @@ public class WarShipMain {
     public static void main(String[] args) {
         WarShipMain game = new WarShipMain();
         game.setUpGame();
-        game.startPlaying();
+        //game.startPlaying();
     }
 
 

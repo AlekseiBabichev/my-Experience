@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<item name="startButton" type="id">StartButton</item><item name="warField" type="id">warfield</item><item name="typeShip" type="id">typeShipAndCount</item><item name="changeViewField" type="id">changeviewfield</item><item name="logs" type="id">logs</item></resources>

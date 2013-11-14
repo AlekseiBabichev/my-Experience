@@ -2,43 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ru.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/AI.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChannelModel.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatClientLogin.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatClientPanel.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatConstants.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatServer.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/ChatUserModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/ConstParam.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/Field.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/GameHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/Player.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/Ship.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.086/MySimpleChat/SpringUtilities.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/src/WarShipMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/warShip(consolVersion).iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/src/ru/Babichev/Aleksei/WarShip_Android/game/AI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/src/ru/Babichev/Aleksei/WarShip_Android/game/ConstParam.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/src/ru/Babichev/Aleksei/WarShip_Android/game/Field.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/src/ru/Babichev/Aleksei/WarShip_Android/game/GameHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/src/ru/Babichev/Aleksei/WarShip_Android/game/Player.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/src/ru/Babichev/Aleksei/WarShip_Android/game/Ship.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/src/ru/Babichev/Aleksei/WarShip_Android/game/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/WarShip(Android).iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/src/ru/Babichev/Aleksei/WarShip_Android/game/WarShipMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/res/values/ids.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WarShip(Android)/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../chatTCP/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../chatTCP/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../numberMethod/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../numberMethod/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../warShip(consolVersion)/.idea/workspace.xml" />
     </list>
     <ignored path="JavaRushHomeWork.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Solution.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384270932822" ignored="false" />
-    <file path="/fragment.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384277155767" ignored="false" />
-    <file path="/Dummy.txt" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384275422202" ignored="false" />
+    <file path="/fragment.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384287214237" ignored="false" />
+    <file path="/Dummy.txt" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384289792027" ignored="false" />
     <file path="/perebor.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1362589784369" ignored="false" />
     <file path="/classs.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1363629041569" ignored="false" />
     <file path="/*.regexp" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1359746331101" ignored="false" />
@@ -128,7 +121,7 @@
     <file path="/лаб2.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1370343787195" ignored="false" />
     <file path="$USER_HOME$/Desktop/java_projects/untitled2/src/sortArray/floatSort.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1370343787195" ignored="false" />
     <file path="$USER_HOME$/Desktop/java_projects/untitled2/src/sortArray/main.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1370344091445" ignored="false" />
-    <file path="/main.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1370344091445" ignored="false" />
+    <file path="/main.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384289821672" ignored="false" />
     <file path="$USER_HOME$/Desktop/java_projects/untitled2/src/sortArray/FloatSort.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1370344167623" ignored="false" />
     <file path="$USER_HOME$/Desktop/java_projects/untitled2/src/sortArray/mainClass.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1370344093504" ignored="false" />
     <file path="$USER_HOME$/Desktop/java_projects/untitled2/src/sortArr.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1370345871847" ignored="false" />
@@ -398,6 +391,13 @@
     <file path="$PROJECT_DIR$/../warShip/src/ru/BabichevAleksei/warShip/main.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384273916954" ignored="false" />
     <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/SimpleDotComTestDrive.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384280106489" ignored="false" />
     <file path="$PROJECT_DIR$/../warShip(consolVersion)/src/SwingTest.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384280124493" ignored="false" />
+    <file path="$PROJECT_DIR$/../WarShip(Android)/src/ru/Babichev/Aleksei/WarShip_Android/main.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384289822196" ignored="false" />
+    <file path="$PROJECT_DIR$/../WarShip(Android)/AndroidManifest.xml" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384281361049" ignored="false" />
+    <file path="$PROJECT_DIR$/../WarShip(Android)/res/layout/main.xml" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384286716511" ignored="false" />
+    <file path="$PROJECT_DIR$/../WarShip(Android)/res/values/strings.xml" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384282396225" ignored="false" />
+    <file path="$PROJECT_DIR$/../WarShip(Android)/build.xml" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384281361049" ignored="false" />
+    <file path="/strings.xml" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384282130873" ignored="false" />
+    <file path="$PROJECT_DIR$/../WarShip(Android)/res/values/colors.xml" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1384286609658" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -813,7 +813,7 @@
       <file leaf-file-name="Solution.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level17/lesson10/home04/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="32" selection-start="808" selection-end="808" vertical-scroll-proportion="0.426506">
+            <state line="34" column="0" selection-start="808" selection-end="808" vertical-scroll-proportion="0.49084857">
               <folding />
             </state>
           </provider>
@@ -908,7 +908,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -984,6 +983,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -996,21 +996,21 @@
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chatTCP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../warShip(consolVersion)" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -1130,6 +1130,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1156,19 +1169,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1300,20 +1300,20 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2247191" sideWeight="0.29213482" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31897926" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2247191" sideWeight="0.29213482" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.399841" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2247191" sideWeight="0.7033493" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2966507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31060606" sideWeight="0.74925375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2247191" sideWeight="0.7033493" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29601228" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31060606" sideWeight="0.74925375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3476874" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31897926" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959871" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1390,79 +1390,57 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level03/lesson06/task04/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="65" selection-end="65" vertical-scroll-proportion="0.056572378">
-          <folding />
-        </state>
+        <state line="2" column="13" selection-start="65" selection-end="65" vertical-scroll-proportion="0.056572378" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level03/lesson06/task04/template.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level03/lesson12/setter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="61" selection-end="61" vertical-scroll-proportion="0.14143094">
-          <folding />
-        </state>
+        <state line="5" column="13" selection-start="61" selection-end="61" vertical-scroll-proportion="0.14143094" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level03/lesson12/home01/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="65" selection-end="65" vertical-scroll-proportion="0.056572378">
-          <folding />
-        </state>
+        <state line="2" column="13" selection-start="65" selection-end="65" vertical-scroll-proportion="0.056572378" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level03/lesson12/home02/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="65" selection-end="65" vertical-scroll-proportion="0.056572378">
-          <folding />
-        </state>
+        <state line="2" column="13" selection-start="65" selection-end="65" vertical-scroll-proportion="0.056572378" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level03/lesson12/home03/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="13" selection-start="129" selection-end="129" vertical-scroll-proportion="0.056572378">
-          <folding />
-        </state>
+        <state line="3" column="13" selection-start="129" selection-end="129" vertical-scroll-proportion="0.056572378" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson13/task04/template.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="12" selection-start="247" selection-end="247" vertical-scroll-proportion="0.33943427">
-          <folding />
-        </state>
+        <state line="12" column="12" selection-start="247" selection-end="247" vertical-scroll-proportion="0.33943427" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson16/home01/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="126" selection-end="126" vertical-scroll-proportion="0.19800332">
-          <folding />
-        </state>
+        <state line="7" column="13" selection-start="126" selection-end="126" vertical-scroll-proportion="0.19800332" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson16/home02/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="10" column="13" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson16/home03/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="192" selection-end="192" vertical-scroll-proportion="0.2545757">
-          <folding />
-        </state>
+        <state line="10" column="13" selection-start="192" selection-end="192" vertical-scroll-proportion="0.2545757" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level16/lesson13/bonus03/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="91" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="36" column="91" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson16/home04/Cat.java">
@@ -1483,9 +1461,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_13/src.zip!/java/lang/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="17" selection-start="3718" selection-end="3718" vertical-scroll-proportion="2.9903615">
-          <folding />
-        </state>
+        <state line="96" column="17" selection-start="3718" selection-end="3718" vertical-scroll-proportion="2.9903615" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level17/lesson10/home02/Beach.java">
@@ -1497,7 +1473,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level17/lesson10/home04/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="32" selection-start="808" selection-end="808" vertical-scroll-proportion="0.426506">
+        <state line="34" column="0" selection-start="808" selection-end="808" vertical-scroll-proportion="0.49084857">
           <folding />
         </state>
       </provider>

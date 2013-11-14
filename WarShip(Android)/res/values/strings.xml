@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WarShipAndroid</string>
+    <string name="hello">Нажмите Start чтобы начать</string>
+    <string name="startButton">Start</string>
+    <string name="game_name">морской бой</string><string name="changeViewButton">другое поле</string>
+</resources>
